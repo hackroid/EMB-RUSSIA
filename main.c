@@ -1,3 +1,12 @@
+/**
+ *  Embedded System Project -- Тетрис!(俄罗斯方块)
+ *  Project name:   EMB-RUSSIA
+ *  Collaborators:  陈达寅 xxxxxxxx
+ *                  黄万款 xxxxxxxx
+ *                  请填上 xxxxxxxx
+ *                  赵博弘 xxxxxxxx
+ **/
+
 #include "led.h"
 #include "delay.h"
 #include "sys.h"
