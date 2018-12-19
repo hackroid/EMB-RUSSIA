@@ -24,3 +24,10 @@
 .\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\main.o: .\HARDWARE\ITEMP\tsensor.h
 .\objects\main.o: .\HARDWARE\REMOTE\remote.h
+.\objects\main.o: .\HARDWARE\KEY\key.h
+.\objects\main.o: .\HARDWARE\24CXX\24cxx.h
+.\objects\main.o: .\HARDWARE\IIC\myiic.h
+.\objects\main.o: .\HARDWARE\TOUCH\touch.h
+.\objects\main.o: .\HARDWARE\TOUCH\ott2001a.h
+.\objects\main.o: .\HARDWARE\TOUCH\gt9147.h
+.\objects\main.o: .\HARDWARE\TOUCH\ft5206.h
